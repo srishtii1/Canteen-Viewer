@@ -1,0 +1,5 @@
+1,Chinese Cuisine,0800,1900,5
+2,Malay Cuisine,0800,1900,6
+3,Noodle and Soup,0700,1900,5
+4,Western Cuisine,0900,1900,10
+5,Indian Cuisine,0400,1900,7

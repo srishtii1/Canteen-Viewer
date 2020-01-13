@@ -1,0 +1,16 @@
+Chicken Rice,1,Everyday,0800,1200,3.5
+Duck Rice,1,Monday+Tuesday+Friday,0800,1900,4
+Roasted Pork Rice,1,Wednesday+Thursday,0900,1600,4
+Mee Soto,2,Everyday,0800,1600,2
+Mee Rebus,2,Everyday,0800,1700,2.5
+Ayam Penyet,2,Friday,0800,1300,4
+Laksa,3,Everyday,0700,2300,3
+Minced Meat Noodle,3,Everyday,0800,2300,3
+Fish Soup,3,Everyday,1100,2300,3.5
+Fishball Noodle,3,Everyday,0800,2359,3.5
+Pig Organ Soup,3,Everyday,0800,1800,3.5
+Chicken Chop,4,Everyday,0900,1800,4
+Pork Chop,4,Everyday,0900,1800,4
+Spaghetti,4,Monday+Tuesday+Thursday,0900,1700,4
+Prata,5,Everyday,1100,1800,2
+Murtabak,5,Everyday,1100,1900,5
